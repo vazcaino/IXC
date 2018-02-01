@@ -1,0 +1,21 @@
+[{
+    "name":"je4npw",
+    "host": "10.64.1.24",
+    "port": 22,
+    "username": "root",
+    "password": "kjr30dmw",
+    "remotePath": "/var/www/arquivos",
+    "localPath": "",
+    "disable": false,
+    "private_key": "~/.ssh/id_rsa"
+},{
+    "name":"",
+    "host": "",
+    "port": 22,
+    "username": "",
+    "password": "",
+    "remotePath": "",
+    "localPath": "",
+    "disable": false,
+    "private_key": "~/.ssh/id_rsa"
+}]
