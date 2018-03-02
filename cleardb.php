@@ -32,7 +32,7 @@ function cpf($compontos) {
     $n3 = rand(0,9);
     $n4 = rand(0,9);
     $n5 = rand(0,9);
-    $n6 = rand(0,9);
+    $n6 = rand(0,9); 
     $n7 = rand(0,9);
     $n8 = rand(0,9);
     $n9 = rand(0,9);
